@@ -1,13 +1,13 @@
 # MsApps - Home Assignment | Ido Slivko
 A small app that allows the user to view images according to some given topic
-[Check the active version here](https://idoslivko.github.io/MsApps/)
+[Check the active version here](https://idoslivko.github.io/MsApps/)  
 
 ---
 
-> Intro
-It is recommended to read the intro with this melody on the background: 
-[sad violin theme](https://www.youtube.com/watch?v=_R9gVc9ggZg)
-
+> Intro  
+It is recommended to read the intro with this melody on the background:   
+[sad violin theme](https://www.youtube.com/watch?v=_R9gVc9ggZg)  
+  
 I solved the task partly because I could not succeed handling the call from the server to the external API in order to retrieve the data. I succeeded doing so in the client side though. The task was clear and I understood what I had to do but unfortunately it is not something I have done before, so after making unsuccessful attempts, I decided to move on and to take care of the client side, so that at least the task is completed in this aspect. I apologize in advance and hope you will review the task even though it is not fully completed. I am attaching the server side as well to your impression, although as mentioned, the whole app's logic is currently built on the client side.
 Thank you
 
