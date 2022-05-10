@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MsApps/static/css/main.01768ca3.css",
+    "main.js": "/MsApps/static/js/main.c2a833e6.js",
+    "static/js/787.02bebaee.chunk.js": "/MsApps/static/js/787.02bebaee.chunk.js",
+    "index.html": "/MsApps/index.html",
+    "main.01768ca3.css.map": "/MsApps/static/css/main.01768ca3.css.map",
+    "main.c2a833e6.js.map": "/MsApps/static/js/main.c2a833e6.js.map",
+    "787.02bebaee.chunk.js.map": "/MsApps/static/js/787.02bebaee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01768ca3.css",
+    "static/js/main.c2a833e6.js"
+  ]
+}
