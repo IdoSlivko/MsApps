@@ -1,0 +1,21 @@
+.header {
+	width: 100%;
+	/* background-color: #FF0000; */
+}
+
+.header__container {
+	width: calc(100% - 160px);
+	margin: 0px auto;
+}
+
+.header__title {
+	height: 50px;
+	margin: 0px;
+	padding: 0px;
+	line-height: 50px;
+	text-align: center;
+	font-weight: 100;
+	letter-spacing: 3px;
+	word-spacing: 5px;
+	/* background-color: #FFF; */
+}
